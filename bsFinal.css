@@ -14,7 +14,7 @@
     display: inline-block; text-align: left;
 }
 
-table{
+#table1{
     border: 1px solid;
     margin-left: auto;
     margin-right: auto;
@@ -27,3 +27,11 @@ body{
     background-color: lightblue;
 }
 
+#table2{
+    width: 100%;
+    border: 1px solid black;
+}
+
+tr, th, td{
+    border: 1px solid black;
+}
