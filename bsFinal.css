@@ -1,0 +1,29 @@
+.p1{
+    color: black;
+    text-align: center;
+    border: groove 5px brown;
+    font-family: 'Oswald', sans-serif;
+    
+}
+
+#header1{
+    color: red;
+}
+
+#list1{
+    display: inline-block; text-align: left;
+}
+
+table{
+    border: 1px solid;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+tr:nth-child(Odd) {
+    background-color: #a5b5fc;
+  }
+body{
+    background-color: lightblue;
+}
+
