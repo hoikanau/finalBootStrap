@@ -28,8 +28,9 @@ body{
 }
 
 #table2{
-    width: 100%;
-    border: 1px solid black;
+    font-family: monospace;
+    font-size: x-large;
+    text-align: center;
 }
 
 tr, th, td{
