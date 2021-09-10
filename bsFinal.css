@@ -7,11 +7,15 @@
 }
 
 #header1{
+    font-family: 'Indie Flower', cursive;
+    font-weight: bolder;
     color: red;
 }
 
 #list1{
-    display: inline-block; text-align: left;
+    color: chocolate;
+    display: inline-block; 
+    text-align: left;
 }
 
 #table1{
